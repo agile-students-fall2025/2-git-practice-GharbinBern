@@ -14,3 +14,7 @@ What especially caught my attention:
 - How this contributes to *software sustainability*. It’s not just about detecting smells, but about doing so in a way that allows the code to evolve without accumulating undue technical debt.
 - The relevance to real-world engineering: I like how this ties theory (tuning, empirical evaluation) with practical impact (making maintenance and evolution more manageable).
 
+
+## Comments
+Godbless Osei:  It it interesting that the experiment uses Ensemble learning instead of Deep Learning, since the former combines multiple models, whiles the later uses layered neural networks to automatically learn complex features. However the multiple model approach improves accuracy and robustness.
+
